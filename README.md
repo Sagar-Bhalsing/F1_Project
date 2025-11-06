@@ -37,14 +37,19 @@ This project was developed as an assignment, using mock APIs for demo purposes. 
 - **Kotlin**: 1.9+
 - **Compose Compiler**: 1.5.4
 
-## Screenshots
+## 🖼️ Screenshots
+
 <p align="center">
   <img src="https://github.com/Sagar-Bhalsing/F1_Project/blob/main/app/src/main/java/com/f1_project/screenShots/HomeSreen1.png?raw=true" width="250" alt="Home Screen 1" />
   <img src="https://github.com/Sagar-Bhalsing/F1_Project/blob/main/app/src/main/java/com/f1_project/screenShots/HomeScreen2.png?raw=true" width="250" alt="Home Screen 2" />
 </p>
 
+<p align="center">
+  <b>🏠 Home Screen</b><br/>
+  <i>Driver slider, session info, and educational/social cards.</i>
+</p>
 
-*Home Screen: Driver slider, session info, education/social cards.*
+---
 
 <p align="center">
   <img src="https://github.com/Sagar-Bhalsing/F1_Project/blob/main/app/src/main/java/com/f1_project/screenShots/DetailPage.png?raw=true" 
@@ -52,7 +57,11 @@ This project was developed as an assignment, using mock APIs for demo purposes. 
        width="250" />
 </p>
 
-*Detail Screen: Race/circuit details with facts.*
+<p align="center">
+  <b>📄 Detail Screen</b><br/>
+  <i>Race and circuit details with quick facts.</i>
+</p>
+
 
 
 ## Setup & Installation
