@@ -121,6 +121,11 @@ app/
 │   └── utils/                # Helpers (TimeUtils)
 └── res/                      # Drawables, strings
 ```
+## 📱 Download APK
+
+You can download the latest version of the app from the link below:
+
+👉 [**Download F1 Project APK**](https://drive.google.com/file/d/1_sHVbOAn93BuzpnemFqT0LWySoGBc2xu/view?usp=sharing)
 
 ## Contributing
 
