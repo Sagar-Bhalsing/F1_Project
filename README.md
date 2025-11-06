@@ -47,7 +47,7 @@ This project was developed as an assignment, using mock APIs for demo purposes. 
 *Home Screen: Driver slider, session info, education/social cards.*
 
 <p align="center">
-  <img src="https://github.com/Sagar-Bhalsing/F1_Project/blob/main/app/src/main/java/com/f1_project/screenShots/HomeSreen2.png?raw=true" 
+  <img src="https://github.com/Sagar-Bhalsing/F1_Project/blob/main/app/src/main/java/com/f1_project/screenShots/DetailPage.png?raw=true" 
        alt="Detail Screen" 
        width="300" />
 </p>
