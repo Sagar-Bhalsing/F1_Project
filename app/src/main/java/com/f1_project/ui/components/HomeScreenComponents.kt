@@ -98,7 +98,7 @@ internal fun F1EducationBox(onClick: () -> Unit) {
         modifier = Modifier
             .clip(RoundedCornerShape(16.dp))
             .background(Color(0XFF3020FD))
-            .width(164.dp)
+            .fillMaxWidth()
             .height(60.dp)
             .clickable {
                 onClick()
@@ -174,8 +174,8 @@ internal fun F1DistanceBox() {
         modifier = Modifier
             .clip(RoundedCornerShape(16.dp))
             .background(Color.Transparent)
-            .width(164.dp)
             .height(60.dp)
+            .fillMaxWidth()
             .border(color = Color(0xFF212121), width = 1.dp, shape = RoundedCornerShape(16.dp)),
         contentAlignment = Alignment.CenterStart,
     ) {
