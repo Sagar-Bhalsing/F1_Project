@@ -1,8 +1,3 @@
-# F1 Racing Insights App
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Android](https://img.shields.io/badge/Android-Compose%20&%20MVVM-blue)](https://developer.android.com/)
-
 ## Overview
 
 F1 Racing Insights is a modern Android app built with Jetpack Compose, designed to deliver real-time Formula 1 data, driver stats, and race schedules. Users can explore top drivers, upcoming sessions, and circuit details with an engaging, expressive UI. The app follows a single-activity, multi-screen architecture and integrates external links for education and social media.
@@ -50,7 +45,6 @@ This project was developed as an assignment, using mock APIs for demo purposes. 
 ![Detail Screen](screenshots/detail_screen.png)  
 *Detail Screen: Race/circuit details with facts.*
 
-*(Add actual screenshots to `/screenshots` folder for GitHub rendering.)*
 
 ## Setup & Installation
 
@@ -62,8 +56,8 @@ This project was developed as an assignment, using mock APIs for demo purposes. 
 ### Steps
 1. **Clone the Repo**:
    ```
-   git clone https://github.com/yourusername/f1-racing-insights.git
-   cd f1-racing-insights
+   https://github.com/Sagar-Bhalsing/F1_Project.git
+   cd F1_Project
    ```
 
 2. **Open in Android Studio**:
@@ -94,8 +88,6 @@ For production, replace with official F1 API (e.g., Ergast).
 5. **Instagram Banner**: Tap red "F1 25" card for @boxbox_club.
 6. **Back Navigation**: Standard Compose Nav (up gesture or back button).
 
-Note: As of Nov 2025, mock data may show no upcoming races—use static fallback.
-
 ## Project Structure
 
 ```
@@ -123,19 +115,3 @@ app/
 - Follow Kotlin/Compose style guides.
 - Add tests for new features.
 - Update README for changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Built with ❤️ using xAI's Grok for code guidance.
-- Mock APIs: Mocki.io
-- Design inspo: Figma prototype (link in original assignment).
-- External links: BoxBox Club blog & Instagram.
-
----
-
-*Last Updated: November 06, 2025*  
-Questions? Open an issue! 🚀
