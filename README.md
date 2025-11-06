@@ -40,7 +40,7 @@ This project was developed as an assignment, using mock APIs for demo purposes. 
 ## Screenshots
 <p align="center">
   <img src="https://github.com/Sagar-Bhalsing/F1_Project/blob/main/app/src/main/java/com/f1_project/screenShots/HomeSreen1.png?raw=true" width="250" alt="Home Screen 1" />
-  <img src="https://github.com/Sagar-Bhalsing/F1_Project/blob/main/app/src/main/java/com/f1_project/screenShots/HomeSreen2.png?raw=true" width="250" alt="Home Screen 2" />
+  <img src="https://github.com/Sagar-Bhalsing/F1_Project/blob/main/app/src/main/java/com/f1_project/screenShots/HomeScreen2.png?raw=true" width="250" alt="Home Screen 2" />
 </p>
 
 
@@ -49,7 +49,7 @@ This project was developed as an assignment, using mock APIs for demo purposes. 
 <p align="center">
   <img src="https://github.com/Sagar-Bhalsing/F1_Project/blob/main/app/src/main/java/com/f1_project/screenShots/DetailPage.png?raw=true" 
        alt="Detail Screen" 
-       width="300" />
+       width="250" />
 </p>
 
 *Detail Screen: Race/circuit details with facts.*
