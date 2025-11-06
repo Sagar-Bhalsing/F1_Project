@@ -38,11 +38,12 @@ This project was developed as an assignment, using mock APIs for demo purposes. 
 - **Compose Compiler**: 1.5.4
 
 ## Screenshots
+![Home Screen 1](https://github.com/Sagar-Bhalsing/F1_Project/blob/main/app/src/main/java/com/f1_project/screenShots/HomeSreen1.png?raw=true)
+![Home Screen 2](https://github.com/Sagar-Bhalsing/F1_Project/blob/main/app/src/main/java/com/f1_project/screenShots/HomeSreen2.png?raw=true)
 
-![Home Screen](screenshots/home_screen.png)  
 *Home Screen: Driver slider, session info, education/social cards.*
 
-![Detail Screen](screenshots/detail_screen.png)  
+![Detail Screen](https://github.com/Sagar-Bhalsing/F1_Project/blob/main/app/src/main/java/com/f1_project/screenShots/HomeSreen2.png?raw=true)
 *Detail Screen: Race/circuit details with facts.*
 
 
